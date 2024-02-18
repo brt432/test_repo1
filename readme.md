@@ -1,8 +1,6 @@
 # Hi
 
-# Hello this is the 1st change on master
+# Hello this is the 1st change
 
-# Now this is the 1st change from remote repo
-
-# 2nd change on remote repo
+# new branch 1 
 
